@@ -5,10 +5,10 @@ import PlayerList from './PlayerList';
 function App() {
 
   return (
-    <>
+    <div id='play'>
      <PlayerList/>
      <Player/>
-    </>
+    </div>
   )
 }
 
